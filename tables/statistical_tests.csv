@@ -1,0 +1,4 @@
+test,question,statistic,p_value,effect_size,notes
+Kruskal-Wallis,Do realized net PnL distributions differ by sentiment?,749.5176218426564,6.595163174153122e-161,0.007140768194809118,"Very small p-value, but effect size must be interpreted with heavy-tailed trade PnL."
+Chi-square,Does realized win-rate differ by sentiment?,1749.1836961090426,0.0,0.12943472997204203,Win-rate differs materially across regimes; Extreme Greed/Fear had higher realized win-rate than Greed.
+Spearman correlation,Is daily net PnL monotonically related to FGI value?,0.04390629797324533,0.3371087225617547,0.04390629797324533,Weak/non-significant daily monotonic relationship; sentiment should not be used as a standalone signal.

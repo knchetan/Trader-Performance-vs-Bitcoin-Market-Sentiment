@@ -1,0 +1,38 @@
+column,dtype,non_null,nulls,sample_value
+Account,object,211224,0,0xae5eacaf9c6b9111fd53034a602c192a04e082ed
+Coin,object,211224,0,@107
+Execution Price,float64,211224,0,7.9769
+Size Tokens,float64,211224,0,986.87
+Size USD,float64,211224,0,7872.16
+Side,object,211224,0,BUY
+Timestamp IST,object,211224,0,02-12-2024 22:50
+Start Position,float64,211224,0,0.0
+Direction,object,211224,0,Buy
+Closed PnL,float64,211224,0,0.0
+Transaction Hash,object,211224,0,0xec09451986a1874e3a980418412fcd0201f500c95bac0f37caef8a734502ec49
+Order ID,int64,211224,0,52017706630
+Crossed,bool,211224,0,True
+Fee,float64,211224,0,0.34540448
+Trade ID,float64,211224,0,895000000000000.0
+Timestamp,float64,211224,0,1730000000000.0
+dt,datetime64[ns],211224,0,2024-12-02 22:50:00
+date,datetime64[ns],211224,0,2024-12-02 00:00:00
+value,float64,211224,0,80.0
+classification,object,211224,0,Extreme Greed
+sentiment_imputed,bool,211224,0,False
+prev_value,float64,211221,3,81.0
+prev_classification,object,211221,3,Extreme Greed
+sentiment_delta,float64,211224,0,-1.0
+sentiment_regime_code,int8,211224,0,4
+gross_pnl,float64,211224,0,0.0
+net_pnl,float64,211224,0,-0.34540448
+is_realized,bool,211224,0,False
+is_win,bool,211224,0,False
+notional_usd,float64,211224,0,7872.16
+hour,int32,211224,0,22
+weekday,object,211224,0,Monday
+month,object,211224,0,2024-12
+direction_group,object,211224,0,Spot/Swap
+size_bucket,category,211224,0,$1k-$10k
+coin_bucket,object,211224,0,@107
+log_size_usd,float64,211224,0,8.971214785599583

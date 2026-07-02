@@ -1,0 +1,25 @@
+metric,value
+rows,211224.0
+realized_trades,104408.0
+realized_rate,0.4942998901639965
+notional_usd,1191187442.46
+gross_pnl,10296958.943436
+fees,245857.72056573082
+net_pnl,10051101.222870268
+avg_net_per_row,47.58503400593809
+avg_net_per_realized,97.42658355258217
+median_net_realized,5.7776345
+win_rate_realized,0.8229541797563406
+profit_factor,4.4239309728688
+gross_win_sum,13143002.529781
+gross_loss_sum,-2970887.7942230003
+pnl_per_1k_notional,8.43788379947414
+avg_fee_bps,2.0639717294030047
+accounts,32.0
+coins,246.0
+active_dates,480.0
+date_min,2023-05-01 01:06:00
+date_max,2025-05-01 12:13:00
+source_rows_historical_data,211224
+source_rows_fear_greed,2644
+sentiment_dates_imputed,1
